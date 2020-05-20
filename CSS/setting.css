@@ -16,6 +16,6 @@
   margin-bottom: 30px;
 }
 
-..settings .settings__settin:last-child {
+.settings .settings__settin:last-child {
   margin-bottom: 0px;
 }
